@@ -1,0 +1,10 @@
+export const GetAllCategoryUrl = "/api/v1/category"
+export const GetAllSubCategoryUrl = "/api/v1/subCategory"
+export const GetAllVariationUrl = "/api/v1/variation-template"
+export const deleteFileFromServerUrl = "/api/v1/media/delete"
+export const createProductUrl = "/api/v1/product"
+export const updateProductUrl = "/api/v1/product"
+export const getAllProductUrl = "/api/v1/product"
+export const updateCategoryUrl = "/api/v1/category"
+export const updateSubCategoryUrl = "/api/v1/subCategory" // PUT
+export const createSubCategoryUrl = "/api/v1/subCategory" // POST
